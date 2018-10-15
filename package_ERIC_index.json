@@ -1,5 +1,6 @@
 {
   "packages": [
+    
     {
       "name": "ERIC",
       "maintainer": "ERIC-KDU",
@@ -13,7 +14,7 @@
           "name": "Arduino AVR Boards",
           "architecture": "avr",
           "version": "1.6.23",
-          "category": "Arduino",
+          "category": "Contributed",
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
