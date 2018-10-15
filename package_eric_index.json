@@ -13,7 +13,7 @@
           "name": "Arduino AVR Boards",
           "architecture": "avr",
           "version": "1.6.23",
-          "category": "Contributed",
+          "category": "Arduino,
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
@@ -23,7 +23,25 @@
           "size": "5001988",
           "boards": [
             
-            {"name": "ERIC Devolopment Board v1.0"},
+        {"name": "Arduino Yún"},
+            {"name": "Arduino Uno"},
+            {"name": "Arduino Diecimila"},
+            {"name": "ERIC Devolopment Board"},
+            {"name": "Arduino Mega"},
+            {"name": "Arduino MegaADK"},
+            {"name": "Arduino Leonardo"},
+            {"name": "Arduino Micro"},
+            {"name": "Arduino Esplora"},
+            {"name": "Arduino Mini"},
+            {"name": "Arduino Ethernet"},
+            {"name": "Arduino Fio"},
+            {"name": "Arduino BT"},
+            {"name": "Arduino LilyPadUSB"},
+            {"name": "Arduino Lilypad"},
+            {"name": "Arduino Pro"},
+            {"name": "Arduino ATMegaNG"},
+            {"name": "Arduino Robot Control"},
+            {"name": "Arduino Robot Motor"}
            
           ],
           "toolsDependencies": [
